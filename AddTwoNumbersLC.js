@@ -11,5 +11,9 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    
+    let node = null;
+    const carry = arguments[2];
+    while (l1 || l2) {
+
+    }
 };
